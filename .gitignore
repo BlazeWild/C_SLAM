@@ -29,12 +29,12 @@ logs/
 *.log
 
 # Generated images and outputs
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.mp4
-*.avi
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.mp4
+# *.avi
 
 # Datasets (if large)
 # datasets/*/
