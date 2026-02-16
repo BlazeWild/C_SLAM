@@ -1,0 +1,57 @@
+# Checkpoint files (model weights)
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.ckpt
+checkpoints/*.safetensors
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Generated images and outputs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.avi
+
+# Datasets (if large)
+datasets/*/
+!datasets/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Test outputs
+test_outputs/
+outputs/
