@@ -37,7 +37,7 @@ logs/
 *.avi
 
 # Datasets (if large)
-datasets/*/
+# datasets/*/
 !datasets/.gitkeep
 
 # OS files
